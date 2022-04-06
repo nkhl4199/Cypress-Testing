@@ -1,0 +1,5 @@
+
+module.exports = {
+    APPLITOOLS_API_KEY: cL6QA2hGglI445V2XmZQm4cGsmYUI022MshRYEP8REc110
+
+}
